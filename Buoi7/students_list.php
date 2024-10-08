@@ -25,7 +25,7 @@ disconnect_db();
             <?php foreach ($students as $item){ ?>
             <tr>
                 <td><?php echo $item['id']; ?></td>
-                <td><?php echo $item['hoten']; ?></td>
+                <td><?php echo $item['hoTen']; ?></td>
                 <td><?php echo $item['gioitinh']; ?></td>
                 <td><?php echo $item['ngaysinh']; ?></td>
                 <td>

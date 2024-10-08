@@ -62,7 +62,7 @@ disconnect_db();
                 <tr>
                     <td>Name</td>
                     <td>
-                        <input type="text" name="name" value="<?php echo htmlspecialchars($data['hoten']); ?>"/>
+                        <input type="text" name="name" value="<?php echo htmlspecialchars($data['hoTen']); ?>"/>
                         <?php if (!empty($errors['sv_name'])) echo $errors['sv_name']; ?>
                     </td>
                 </tr>

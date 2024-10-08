@@ -13,3 +13,4 @@ if ($id) {
 header("Location: students_list.php");
 exit(); // Dừng thực thi mã sau khi chuyển hướng
 ?>
+
