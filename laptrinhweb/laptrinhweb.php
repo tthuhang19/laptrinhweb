@@ -85,18 +85,9 @@
             <div class="overlay">
 
                 <p>
-                <h2>Buổi 5:</h2>
-                </p>
-                
-            </div>
-        </div>
-        <div class="item">
-            <img src="https://images.pexels.com/photos/4587959/pexels-photo-4587959.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-                alt="Image 6">
-            <div class="overlay">
-                <p>
                 <h2>Buổi 6:</h2>
                 </p>
+
                 <a href="http://laptrinhweb19.000.pe/Buoi6/create06.php">Create</a>
                 <a href=" http://laptrinhweb19.000.pe/Buoi6/delete06.php">Delete</a>
                 <a href="http://laptrinhweb19.000.pe/Buoi6/insert06.php">Insert</a>
@@ -105,8 +96,8 @@
             </div>
         </div>
         <div class="item">
-            <img src="https://images.pexels.com/photos/4587993/pexels-photo-4587993.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-                alt="Image 7">
+            <img src="https://images.pexels.com/photos/4587959/pexels-photo-4587959.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+                alt="Image 6">
             <div class="overlay">
                 <p>
                 <h2>Buổi 7:</h2>
@@ -115,15 +106,26 @@
             </div>
         </div>
         <div class="item">
-            <img src="https://images.pexels.com/photos/4587952/pexels-photo-4587952.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-                alt="Image 8">
+            <img src="https://images.pexels.com/photos/4587993/pexels-photo-4587993.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+                alt="Image 7">
             <div class="overlay">
                 <p>
-                <h2>Bafi 8</h2>
+                <h2>Buổi 8:</h2>
                 </p>
                 <a href="http://laptrinhweb19.000.pe/Buoi8/employee_list.php?i=1">Employee</a>
                 <a href="http://laptrinhweb19.000.pe/Buoi8/department_list.php">Department</a>
                 <a href="http://laptrinhweb19.000.pe/Buoi8/roles_list.php">Roles</a>
+            </div>
+        </div>
+        <div class="item">
+            <img src="https://images.pexels.com/photos/4587952/pexels-photo-4587952.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+                alt="Image 8">
+            <div class="overlay">
+                <p>
+                <h2>Buổi 9</h2>
+                </p>
+                <a href="http://laptrinhweb19.000.pe/Buoi9/authentication.php">List</a>
+                
             </div>
         </div>
 
