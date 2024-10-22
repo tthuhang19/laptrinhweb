@@ -48,8 +48,8 @@
                 <p>
                 <h2>Buổi 2:</h2>
                 </p>
-                <a href="http://laptrinhweb19.000.pe/Bai3buoi2.php">Bài 3</a>
-                <a href="http://laptrinhweb19.000.pe/Bai4.php">Bài 4</a>
+                <a href="http://laptrinhweb19.000.pe/Buoi2/Bai3nhap.php?i=1">Bài 3</a>
+                <a href="http://laptrinhweb19.000.pe/Buoi2/require.php">Bài 4</a>
             </div>
         </div>
         <div class="item">
